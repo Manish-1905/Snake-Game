@@ -5,6 +5,7 @@
 -> Players guide the snake to eat apples, growing longer with each bite, while avoiding collisions with walls or themselves. The game tracks scores in real time and features a session-based high score that persists until the tab is closed, ensuring each playthrough feels fresh.
 
 
+
 ✨ Features
 
 -> Start screen with clickable button and hover effects
@@ -18,6 +19,7 @@
 -> Clean visuals using grid tiles and simple shapes for clarity
 
 
+
 🎮 Gameplay
 
 -> Use arrow keys to control the snake’s direction.
@@ -27,6 +29,7 @@
 -> Avoid hitting walls or yourself — collisions trigger game over.
 
 -> Break your high score to hear a celebratory sound.
+
 
 
 ⚙️ Setup & Run
