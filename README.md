@@ -2,11 +2,11 @@
 
 This project is a modern take on the classic Snake game, built with HTML5 Canvas and JavaScript. It combines simple, grid-based visuals with immersive audio and interactive UI controls to deliver a polished arcade-style experience directly in the browser.
 
-Players guide the snake to eat apples, growing longer with each bite, while avoiding collisions with walls or themselves. The game tracks scores in real time and features a session-based high score system that persists until the tab is closed, ensuring each playthrough feels fresh.
+Players guide the snake to eat apples, growing longer with each bite, while avoiding collisions with walls or themselves. The game tracks scores in real time and features a session-based high score that persists until the tab is closed, ensuring each playthrough feels fresh.
 
 ✨ Features
 
-Start screen with a clickable button and hover effects
+Start screen with clickable button and hover effects
 
 Session-based high score that resets only when the tab is closed
 
@@ -28,4 +28,14 @@ Avoid hitting walls or yourself — collisions trigger game over.
 
 Break your high score to hear a celebratory sound and see a banner.
 
-This project recreates the nostalgic Snake experience while adding modern touches like audio feedback, UI controls, and session-based scoring, making it fun, lightweight, and easy to play in any browser.
+⚙️ Setup & Run
+
+Clone or download this repository.
+
+Place all files (index.html, style.css, script.js, and audio files like crunch.mp3, bang.mp3, highscore.mp3, gameover.mp3, background.mp3) in the same folder.
+
+Open index.html in any modern browser (Chrome, Edge, Firefox).
+
+Click Start Game to begin playing.
+
+No additional setup is required — the game runs entirely in the browser.
