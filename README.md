@@ -1,8 +1,8 @@
 🐍 Snake Game
 
--> This project is a modern take on the classic Snake game, built with HTML5 Canvas and JavaScript. It combines simple, grid-based visuals with -> immersive audio and interactive UI controls to deliver a polished arcade-style experience directly in the browser.
+-> This project is a modern take on the classic Snake game, built with HTML5 Canvas and JavaScript. It combines simple, grid-based visuals with immersive audio and interactive UI controls to deliver a polished arcade-style experience directly in the browser.
 
-Players guide the snake to eat apples, growing longer with each bite, while avoiding collisions with walls or themselves. The game tracks scores in real time and features a session-based high score that persists until the tab is closed, ensuring each playthrough feels fresh.
+-> Players guide the snake to eat apples, growing longer with each bite, while avoiding collisions with walls or themselves. The game tracks scores in real time and features a session-based high score that persists until the tab is closed, ensuring each playthrough feels fresh.
 
 
 ✨ Features
